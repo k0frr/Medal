@@ -1,6 +1,6 @@
 # ALL CREDITS GO TO Jujhar Singh, and Mathias Pedersen. I am in no way affiliated with these people or the project they created. This is a fork of their creation, any and ALL USE OF THIS PROJECT SHOULD CREDIT THEM OR THE ORIGINAL GITHUB REPO
 # https://github.com/xeonise/medal2
-# R.I.P 
+# Sincere appreciation and grattitude goes to those two people, rest in peace.
 
 Medal's LuaU decompiler
 
