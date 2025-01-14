@@ -34,7 +34,7 @@ async fn handle_request(req: Request<Body>) -> Result<Response<Body>, Infallible
 async fn main() {
     env_logger::init();
 
-    let addr = SocketAddr::from(([127, 0, 0, 1], 10000));
+    let addr = SocketAddr::from(([0, 0, 0, 0], 10000));
 
     let make_svc = make_service_fn(|_conn| {
         async {
